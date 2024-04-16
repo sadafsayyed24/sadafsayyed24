@@ -10,7 +10,9 @@
 - 📄 Know about my experiences [linkedin.com/in/sadafsayyed](linkedin.com/in/sadafsayyed)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  <a href="https://www.linkedin.com/in/sadafsayyed/" target="_blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
